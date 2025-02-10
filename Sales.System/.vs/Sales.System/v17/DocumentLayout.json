@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\Sistema de vendas\\SalesSystem-API\\Sales.System\\",
+  "WorkspaceRootPath": "C:\\Dev\\SalesSystem-API\\Sales.System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\sistema de vendas\\salessystem-api\\sales.system\\sales.system\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|c:\\dev\\salessystem-api\\sales.system\\domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|c:\\dev\\salessystem-api\\sales.system\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\controllers\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\controllers\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Dev\\Sistema de vendas\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Sales.System\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Dev\\Sistema de vendas\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Sales.System\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Sales\\SalesController.cs",
+              "RelativeDocumentMoniker": "Sales.System\\Controllers\\Sales\\SalesController.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Sales\\SalesController.cs",
+              "RelativeToolTip": "Sales.System\\Controllers\\Sales\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T22:15:09.651Z",
+              "WhenOpened": "2025-02-10T22:37:09.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Products\\Product.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "Domain\\Models\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:45:06.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:44:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Products\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Sales.System\\Controllers\\Products\\ProductsController.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Products\\ProductsController.cs",
+              "RelativeToolTip": "Sales.System\\Controllers\\Products\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:40:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sales.System\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sales.System\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T22:29:38.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\appsettings.json",
+              "RelativeDocumentMoniker": "Sales.System\\appsettings.json",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\appsettings.json",
+              "RelativeToolTip": "Sales.System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T22:29:33.754Z",
               "EditorCaption": ""
             }
           ]
