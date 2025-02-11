@@ -4,6 +4,22 @@
     "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Sales.System.csproj": {}
   },
   "projects": {
+    "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Sales.System.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +47,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -50,6 +70,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

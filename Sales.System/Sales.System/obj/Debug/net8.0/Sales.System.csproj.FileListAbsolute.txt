@@ -35,3 +35,5 @@ C:\Dev\SalesSystem-API\Sales.System\Sales.System\obj\Debug\net8.0\refint\Sales.S
 C:\Dev\SalesSystem-API\Sales.System\Sales.System\obj\Debug\net8.0\Sales.System.pdb
 C:\Dev\SalesSystem-API\Sales.System\Sales.System\obj\Debug\net8.0\Sales.System.genruntimeconfig.cache
 C:\Dev\SalesSystem-API\Sales.System\Sales.System\obj\Debug\net8.0\ref\Sales.System.dll
+C:\Dev\SalesSystem-API\Sales.System\Sales.System\bin\Debug\net8.0\Domain.dll
+C:\Dev\SalesSystem-API\Sales.System\Sales.System\bin\Debug\net8.0\Domain.pdb
