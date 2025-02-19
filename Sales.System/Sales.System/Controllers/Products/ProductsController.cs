@@ -1,5 +1,5 @@
-﻿using Domain.Command.Create.Product;
-using Domain.Models.Products;
+﻿using Domain.Sales.System.Command.Create.Product;
+using Domain.Sales.System.Entities.Products;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,25 +16,24 @@ namespace Sales.System.Controllers.Products
         }
 
 
-        [HttpGet("available")] //endpoint para trazer produtos disponiveis
-        public IEnumerable<Product> getAvailableProducts()
-        {
-
-            var products = new List<Product>
-            {
-                new ("perfuminho", 1, true, 50),
-                new ("batonzinho", 2, true, 10),
-                new ("blusinha", 3, true, 30),
-                new("sapatinho", 4, true, 80)
-            };
-            return products;
-            //buscar produtos cadastrados no banco que tenham o status como available (um enum?)
-        }
+        //[HttpGet("available")] //endpoint para trazer produtos disponiveis
+        //public IEnumerable<Product> getAvailableProducts()
+        //{
+        //    _mediator.Send(new );
+        //}
 
         [HttpPost("create")]
-        public void CreateProducts([FromBody] CreateProductCommand request)
+        public async Task<string> CreateProductsAsync(CreateProductCommand request)
         {
-            _mediator.Send(request);
+            try
+            {
+                return await _mediator.Send(request);
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+                throw;
+            }          
         }
 
         [HttpDelete("delete/{id}")]
@@ -50,7 +49,7 @@ namespace Sales.System.Controllers.Products
         }
 
         [HttpPut("alter/{id}")]
-        public void ChangeProductStatus([FromBody] Product request)
+        public void ChangeProductStatus([FromBody] ProductEntitie request)
         {
 
         }

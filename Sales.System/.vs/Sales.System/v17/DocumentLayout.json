@@ -3,40 +3,68 @@
   "WorkspaceRootPath": "C:\\Dev\\SalesSystem-API\\Sales.System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|c:\\dev\\salessystem-api\\sales.system\\domain\\handler\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|solutionrelative:domain\\handler\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\command\\create\\product\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\command\\create\\product\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C3C6813-5CA5-4182-9273-ABBCC222AA63}|Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\infrastructure.sales.system\\data\\sql\\queries\\productqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3C6813-5CA5-4182-9273-ABBCC222AA63}|Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj|solutionrelative:infrastructure.sales.system\\data\\sql\\queries\\productqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|c:\\dev\\salessystem-api\\sales.system\\domain\\command\\create\\product\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|solutionrelative:domain\\command\\create\\product\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|C:\\Dev\\SalesSystem-API\\Sales.System\\domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27D4D7D-E272-4944-A287-7064FFBA95B4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\controllers\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\controllers\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\entities\\products\\productentitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\entities\\products\\productentitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\interfaces\\services\\queries\\product\\iproductqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\interfaces\\services\\queries\\product\\iproductqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\command\\create\\product\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\command\\create\\product\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3C6813-5CA5-4182-9273-ABBCC222AA63}|Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\infrastructure.sales.system\\data\\sql\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3C6813-5CA5-4182-9273-ABBCC222AA63}|Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj|solutionrelative:infrastructure.sales.system\\data\\sql\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\domain.sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\domain.sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\models\\base\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\models\\base\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\domain.sales.system\\models\\services\\product\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA90B7FC-821C-4B2E-ABD6-F9472F3334A9}|Domain.Sales.System\\Domain.Sales.System.csproj|solutionrelative:domain.sales.system\\models\\services\\product\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\migrations\\20250213150532_creatingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\migrations\\20250213150532_creatingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\sales.system\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09869C6-AF4F-483D-8AB8-AED72156E163}|Sales.System\\Sales.System.csproj|solutionrelative:sales.system\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3C6813-5CA5-4182-9273-ABBCC222AA63}|Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj|c:\\dev\\salessystem-api\\sales.system\\infrastructure.sales.system\\infrastructure.sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C3C6813-5CA5-4182-9273-ABBCC222AA63}|Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj|solutionrelative:infrastructure.sales.system\\infrastructure.sales.system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,126 +74,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SalesController.cs",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Sales\\SalesController.cs",
-              "RelativeDocumentMoniker": "Sales.System\\Controllers\\Sales\\SalesController.cs",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Sales\\SalesController.cs",
-              "RelativeToolTip": "Sales.System\\Controllers\\Sales\\SalesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T22:37:09.834Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Products\\ProductsController.cs",
               "RelativeDocumentMoniker": "Sales.System\\Controllers\\Products\\ProductsController.cs",
               "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Controllers\\Products\\ProductsController.cs",
               "RelativeToolTip": "Sales.System\\Controllers\\Products\\ProductsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wB4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T22:40:08.135Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Infrastructure.Sales.System\\Data\\Sql\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Sales.System\\Data\\Sql\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Infrastructure.Sales.System\\Data\\Sql\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure.Sales.System\\Data\\Sql\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:30:05.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductQueriesService.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Interfaces\\Services\\Queries\\Product\\IProductQueriesService.cs",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Interfaces\\Services\\Queries\\Product\\IProductQueriesService.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Interfaces\\Services\\Queries\\Product\\IProductQueriesService.cs",
+              "RelativeToolTip": "Domain.Sales.System\\Interfaces\\Services\\Queries\\Product\\IProductQueriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:25:23.974Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Program.cs",
-              "RelativeDocumentMoniker": "Sales.System\\Program.cs",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Program.cs",
-              "RelativeToolTip": "Sales.System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Title": "ProductEntitie.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Entities\\Products\\ProductEntitie.cs",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Entities\\Products\\ProductEntitie.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Entities\\Products\\ProductEntitie.cs",
+              "RelativeToolTip": "Domain.Sales.System\\Entities\\Products\\ProductEntitie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T22:09:38.563Z",
+              "WhenOpened": "2025-02-13T18:49:16.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CreateProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Handler\\CreateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "Domain\\Handler\\CreateProductCommandHandler.cs",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Handler\\CreateProductCommandHandler.cs",
-              "RelativeToolTip": "Domain\\Handler\\CreateProductCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T22:03:07.249Z",
+              "WhenOpened": "2025-02-13T16:23:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductQueriesService.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Infrastructure.Sales.System\\Data\\Sql\\Queries\\ProductQueriesService.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Sales.System\\Data\\Sql\\Queries\\ProductQueriesService.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Infrastructure.Sales.System\\Data\\Sql\\Queries\\ProductQueriesService.cs",
+              "RelativeToolTip": "Infrastructure.Sales.System\\Data\\Sql\\Queries\\ProductQueriesService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:42:43.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateProductCommand.cs",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Command\\Create\\Product\\CreateProductCommand.cs",
-              "RelativeDocumentMoniker": "Domain\\Command\\Create\\Product\\CreateProductCommand.cs",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Command\\Create\\Product\\CreateProductCommand.cs",
-              "RelativeToolTip": "Domain\\Command\\Create\\Product\\CreateProductCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T21:57:23.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sales.System.csproj",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Sales.System.csproj",
-              "RelativeDocumentMoniker": "Sales.System\\Sales.System.csproj",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Sales.System.csproj",
-              "RelativeToolTip": "Sales.System\\Sales.System.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T22:49:11.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Models\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Products\\Product.cs",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain\\Models\\Products\\Product.cs",
-              "RelativeToolTip": "Domain\\Models\\Products\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T22:45:06.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Sales.System\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Sales.System\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T22:29:38.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\appsettings.json",
               "RelativeDocumentMoniker": "Sales.System\\appsettings.json",
               "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\appsettings.json",
               "RelativeToolTip": "Sales.System\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T22:29:33.754Z",
+              "WhenOpened": "2025-02-13T14:37:55.772Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommand.cs",
+              "RelativeToolTip": "Domain.Sales.System\\Command\\Create\\Product\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:23:47.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Program.cs",
+              "RelativeDocumentMoniker": "Sales.System\\Program.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Program.cs",
+              "RelativeToolTip": "Sales.System\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:49:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Domain.Sales.System.csproj",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Domain.Sales.System.csproj",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Domain.Sales.System.csproj",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Domain.Sales.System.csproj",
+              "RelativeToolTip": "Domain.Sales.System\\Domain.Sales.System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T16:42:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sales.System.csproj",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Sales.System.csproj",
+              "RelativeDocumentMoniker": "Sales.System\\Sales.System.csproj",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Sales.System.csproj",
+              "RelativeToolTip": "Sales.System\\Sales.System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T16:43:02.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Models\\Base\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Models\\Base\\ResponseBase.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Models\\Base\\ResponseBase.cs",
+              "RelativeToolTip": "Domain.Sales.System\\Models\\Base\\ResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:31:53.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Models\\Services\\Product\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "Domain.Sales.System\\Models\\Services\\Product\\CreateProductRequest.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Domain.Sales.System\\Models\\Services\\Product\\CreateProductRequest.cs",
+              "RelativeToolTip": "Domain.Sales.System\\Models\\Services\\Product\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:29:55.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Sales.System\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Sales.System\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:11:46.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250213150532_CreatingDatabase.cs",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Migrations\\20250213150532_CreatingDatabase.cs",
+              "RelativeDocumentMoniker": "Sales.System\\Migrations\\20250213150532_CreatingDatabase.cs",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Sales.System\\Migrations\\20250213150532_CreatingDatabase.cs",
+              "RelativeToolTip": "Sales.System\\Migrations\\20250213150532_CreatingDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:05:32.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Infrastructure.Sales.System.csproj",
+              "DocumentMoniker": "C:\\Dev\\SalesSystem-API\\Sales.System\\Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj",
+              "ToolTip": "C:\\Dev\\SalesSystem-API\\Sales.System\\Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj",
+              "RelativeToolTip": "Infrastructure.Sales.System\\Infrastructure.Sales.System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T14:59:23.792Z"
             }
           ]
         }

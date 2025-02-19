@@ -1,3 +1,7 @@
+using Domain.Sales.System.Interfaces.Services.Queries.Product;
+using Infrastructure.Sales.System.Data.Sql.Context;
+using Infrastructure.Sales.System.Data.Sql.Queries;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +13,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), builder => builder.MigrationsAssembly("Sales.System"));
+});
+
+builder.Services.AddScoped<IProductQueriesService, ProductQueriesService>();
+
+foreach (var assembly in AppDomain.CurrentDomain.GetAssemblies())
+{
+    builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(assembly));
+}
+
 
 var app = builder.Build();
 

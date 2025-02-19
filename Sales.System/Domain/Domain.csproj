@@ -47,7 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Command\Create\Product\CreateProductCommand.cs" />
+    <Compile Include="Enums\Products\ProductCategoryEnum.cs" />
     <Compile Include="Handler\CreateProductCommandHandler.cs" />
     <Compile Include="Models\Products\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
