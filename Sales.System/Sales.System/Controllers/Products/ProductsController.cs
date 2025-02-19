@@ -1,5 +1,6 @@
 ﻿using Domain.Sales.System.Command.Create.Product;
 using Domain.Sales.System.Entities.Products;
+using Domain.Sales.System.Queries.Products.Get;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,11 +17,11 @@ namespace Sales.System.Controllers.Products
         }
 
 
-        //[HttpGet("available")] //endpoint para trazer produtos disponiveis
-        //public IEnumerable<Product> getAvailableProducts()
-        //{
-        //    _mediator.Send(new );
-        //}
+        [HttpGet("get")] 
+        public async Task<GetProductsQueryResponse> GetProducts()
+        {
+            return await _mediator.Send(new GetProductsQueryRequest());
+        }
 
         [HttpPost("create")]
         public async Task<string> CreateProductsAsync(CreateProductCommand request)
